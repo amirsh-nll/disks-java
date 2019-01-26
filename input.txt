@@ -1,0 +1,10 @@
+9
+Height 1
+Merge 1 2
+Height 1
+Height 2
+Merge 3 4
+Merge 4 1
+Height 2
+Height 4
+Height 3
